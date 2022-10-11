@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\DoctorFlow\DTOSLibrary\bin\Debug\DTOSLibrary.dll
+C:\Users\Admin\Desktop\DoctorFlow\DTOSLibrary\bin\Debug\DTOSLibrary.pdb
+C:\Users\Admin\Desktop\DoctorFlow\DTOSLibrary\obj\Debug\DTOSLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DoctorFlow\DTOSLibrary\obj\Debug\DTOSLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DoctorFlow\DTOSLibrary\obj\Debug\DTOSLibrary.dll
+C:\Users\Admin\Desktop\DoctorFlow\DTOSLibrary\obj\Debug\DTOSLibrary.pdb
